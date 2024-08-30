@@ -1,5 +1,5 @@
 # briefly 
-made by ss and ds
+
 
 ## Collect All the website Urls
 ## Data Scrape for all urls
